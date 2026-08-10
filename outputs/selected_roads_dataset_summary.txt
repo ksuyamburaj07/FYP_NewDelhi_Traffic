@@ -1,0 +1,31 @@
+========================================================================
+SELECTED ROADS DATASET SUMMARY
+========================================================================
+
+Output file: E:\FYP\data\processed\selected_delhi_roads_hourly.csv
+Total rows: 4,800
+Total columns: 12
+Selected roads: 10
+First date: 2024-08-11
+Last date: 2024-08-30
+Number of dates: 20
+
+OBSERVATIONS PER ROAD
+Mahatma Gandhi Marg: 480
+Mathura Road: 480
+Outer Ring Road: 480
+Aurobindo Marg: 480
+Mehrauli Badarpur Road: 480
+Barapullah Road: 480
+Vikas Marg: 480
+Africa Avenue: 480
+Sardar Patel Marg: 480
+Noida Link Road: 480
+
+Expected complete rows: 4,800
+Actual rows: 4,800
+Completeness check: PASSED
+
+========================================================================
+DATASET CREATION COMPLETED
+========================================================================

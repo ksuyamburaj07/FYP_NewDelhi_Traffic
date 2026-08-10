@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,MAE Improvement vs Baseline (%),RMSE Improvement vs Baseline (%)
+Naive Current-Hour Baseline,14436.7229,25877.1157,0.9593,0.0,0.0
+Random Forest,6915.0237,12052.5489,0.9912,52.1012,53.4239
+Gradient Boosting,8093.8417,15162.5037,0.986,43.9357,41.4057
