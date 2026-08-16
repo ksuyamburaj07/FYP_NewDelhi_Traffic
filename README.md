@@ -1,5 +1,11 @@
 ﻿# New Delhi Next-Hour Traffic Probe Count Forecasting
 
+## 🚦 Live Application
+
+**[Open the New Delhi Traffic Forecasting App](https://new-delhi-traffic-forecasting.streamlit.app/)**
+
+Interactive Streamlit application for next-hour traffic probe-count forecasting on selected New Delhi roads using a trained Random Forest Regressor.
+
 Machine-learning based one-hour-ahead forecasting of aggregated traffic probe activity for ten selected roads in New Delhi.
 
 **BSc (Hons) Computer Science Final Year Project**
